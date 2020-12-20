@@ -1,1 +1,1 @@
-# demos
+#### This dashboard shows a projection of a Data Scientist salary for several provinces in Canada. Please note!!! these are just ficitious values!, the intention is to demo how a basic dash application can be developed with a manimal line of code.
