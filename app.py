@@ -5,7 +5,7 @@ import dash_bootstrap_components as dbc
 from dash.dependencies import Input, Output, State
 import plotly.graph_objects as go
 
-app = dash.Dash(__name__, external_stylesheets=[dbc.themes.SOLAR])
+app = dash.Dash(__name__, external_stylesheets=[dbc.themes.SUPERHERO])
 
 server = app.server
 
